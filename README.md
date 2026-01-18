@@ -1,4 +1,4 @@
-# 🚀 Shadowrocket Configuration by Viper Labs
+# 🚀 Shadowrocket Configuration by EMRSX
 
 ![Status](https://img.shields.io/badge/status-active-success.svg)
 ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
@@ -6,7 +6,7 @@
 Этот репозиторий содержит оптимизированный конфигурационный файл `.conf` для приложения **Shadowrocket** (iOS). Конфигурация настроена для гибкой маршрутизации трафика, блокировки рекламы и улучшения скорости соединения.
 
 > **Автор:** Эмир (Viper Labs)  
-> **Web:** [viperlabs.tech](https://viperlabs.tech)
+> **Web:** [Веб-Портфолио](https://strydex.is-a.dev)
 
 ---
 
